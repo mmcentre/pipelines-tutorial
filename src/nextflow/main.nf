@@ -90,7 +90,7 @@ process plot {
     set boxwidth 1.2
     set style fill solid
     set terminal png
-    set output "barchart.png"
+    set output "correlations.png"
     set title "Correlation between poverty and other variables"
     set ylabel "Pearson Correlation Coefficient"
 
