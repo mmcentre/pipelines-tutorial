@@ -17,7 +17,7 @@ params.columns = [
 
 process clean {
     // container 'forome/slimpipe'
-    publishDir 'results', mode: 'copy'
+    // publishDir 'results', mode: 'copy'
 
     input:
     path rawDataFile
