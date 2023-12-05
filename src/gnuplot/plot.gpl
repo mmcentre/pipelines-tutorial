@@ -6,4 +6,4 @@ set terminal png
 set title "Correlation between poverty and other variables"
 set ylabel "Pearson Correlation Coefficient"
 
-# plot 'correlations.txt' using 3:xtic(2) with histogram
+# plot 'correlations.txt' using 3:xtic(2) with histogram  notitle
