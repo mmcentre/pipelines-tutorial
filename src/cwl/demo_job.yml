@@ -1,3 +1,0 @@
-program: /Users/misha/projects/forome/github/pipelines-tutorial/src/python/pipelines-tutorial/correlate.py
-data: https://htp-data.s3.us.cloud-object-storage.appdomain.cloud/data.csv.gz
-plot: /Users/misha/projects/forome/github/pipelines-tutorial/src/gnuplot/plot.gpl
